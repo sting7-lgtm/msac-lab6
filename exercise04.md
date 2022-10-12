@@ -10,6 +10,20 @@
 
         git status
 
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        d
+        fruits.txt
+        tatus
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+
 4. Add the new file to your index
 
         git add fruits.txt
@@ -18,3 +32,16 @@
 
         git status
 
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   fruits.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        d
+        tatus

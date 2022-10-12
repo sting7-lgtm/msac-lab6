@@ -15,3 +15,7 @@
 4. Where are the internals of the repository stored? Paste the output of the following command on macOS & Linux.
 
         ls -lA
+
+Initialized empty Git repository in C:/Users/Sean/my_repository/.git/
+
+It is stored in the .git folder.
