@@ -26,6 +26,12 @@
 
         git cat-file -t <hash>
 
+        "Commit"
+
 9. Examine the contents of the parent and its tree
 
 10. Do the trees you looked at have any matching hashes listed?
+
+"The hashes for fruits.txt and vegetables.txt are identical while the has for equipment folder has changed.  
+
+This should be because I modified the former two between the two trees I looked at"

@@ -14,34 +14,13 @@
 
 5. Save and exit from the editor
 
-6. Check git status again, and paste the contents below.
+6. Check git status again, and paste the contents b elow.
 
         git status
 
-Glitch
+"On branch master
+nothing to commit, working tree clean"
 
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch master
-#
-# Initial commit
-#
-# Changes to be committed:
-#       new file:   fruits.txt
-#
-# Untracked files:
-#       d
-#       tatus
-#
-~
-~
-~
-~
-~
-~
-~
-.git/COMMIT_EDITMSG [unix] (15:58 10/10/2022)                          1,0-1 All
-<ISW17/msac-lab6/my_repository/.git/COMMIT_EDITMSG" [unix] 15L, 265B
+
 
 

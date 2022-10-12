@@ -6,8 +6,8 @@
 
 2. Paste the output below
 
-On branch master
+"On branch master
 
 No commits yet
 
-nothing to commit (create/copy files and use "git add" to track)
+nothing to commit (create/copy files and use "git add" to track)"

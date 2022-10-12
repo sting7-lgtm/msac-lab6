@@ -16,6 +16,6 @@
 
         ls -lA
 
-Initialized empty Git repository in C:/Users/Sean/my_repository/.git/
+"Initialized empty Git repository in C:/Users/Sean/my_repository/.git/
 
-It is stored in the .git folder.
+It is stored in the .git folder."

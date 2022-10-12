@@ -36,7 +36,11 @@
 
 10. Which of the steps could be omitted?
 
+"I did not strictly need to check the status after every little thing"
+
 11. Why might it be a bad idea to omit them?
+
+"It is good to check the status step by step to make sure the operations are performed correctly"
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 
